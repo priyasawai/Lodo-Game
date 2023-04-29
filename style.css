@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: green;
+}
+.container{
+   width:70%;
+   margin: auto;
+   text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width: 10vw;
+    height: 20vh;
+    padding: 20px;
+    border-radius: 10px;
+}
+h1{
+    margin: 30px;
+    font-size: 6rem;
+    text-shadow: 5px 5px white;
+    color: #f6b93b;
+}
+p{
+    color: red;
+    font-size: 2rem;
+    text-shadow: 1px 2px white;
+    font-weight: bold;
+}
